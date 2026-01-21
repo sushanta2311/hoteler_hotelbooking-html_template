@@ -1,0 +1,2 @@
+# hoteler_hotelbooking-html_template
+hoteler_hotelbooking-html_template
